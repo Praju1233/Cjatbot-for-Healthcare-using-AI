@@ -1,1 +1,1 @@
-# Cjatbot-for-Healthcare-using-AI
+# CHatbot-for-Healthcare-using-AI
